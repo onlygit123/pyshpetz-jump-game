@@ -25,3 +25,8 @@ Android Studio / Kotlin Canvas. Откройте папку проекта в An
 
 ## Исходники рисунков
 `art_source/` — генератор спрайтов (Chromium Canvas): `npm i playwright && node gen.js` кладёт PNG в `out/`.
+
+
+
+
+Авторы: Маслов Максим, Денисов Андрей, Сергеев Сергей, Томашевский Владислав
