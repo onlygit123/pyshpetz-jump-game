@@ -1,0 +1,7 @@
+com.pyzhpets.jump.app-pngs-0 C:\Users\Maxim\Downloads\PyzhpetsJump_SkyboundEdition_06\app\build\generated\res\pngs\debug
+com.pyzhpets.jump.app-resValues-1 C:\Users\Maxim\Downloads\PyzhpetsJump_SkyboundEdition_06\app\build\generated\res\resValues\debug
+com.pyzhpets.jump.app-packageDebugResources-2 C:\Users\Maxim\Downloads\PyzhpetsJump_SkyboundEdition_06\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.pyzhpets.jump.app-packageDebugResources-3 C:\Users\Maxim\Downloads\PyzhpetsJump_SkyboundEdition_06\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.pyzhpets.jump.app-debug-4 C:\Users\Maxim\Downloads\PyzhpetsJump_SkyboundEdition_06\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.pyzhpets.jump.app-debug-5 C:\Users\Maxim\Downloads\PyzhpetsJump_SkyboundEdition_06\app\src\debug\res
+com.pyzhpets.jump.app-main-6 C:\Users\Maxim\Downloads\PyzhpetsJump_SkyboundEdition_06\app\src\main\res

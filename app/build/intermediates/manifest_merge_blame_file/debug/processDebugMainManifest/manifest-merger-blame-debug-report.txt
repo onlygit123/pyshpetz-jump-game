@@ -1,0 +1,47 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.pyzhpets.jump.skybound05"
+4    android:versionCode="6"
+5    android:versionName="6.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="28" />
+10
+11    <application
+11-->C:\Users\Maxim\Downloads\PyzhpetsJump_SkyboundEdition_06\app\src\main\AndroidManifest.xml:2:5-6:19
+12        android:allowBackup="true"
+12-->C:\Users\Maxim\Downloads\PyzhpetsJump_SkyboundEdition_06\app\src\main\AndroidManifest.xml:2:18-44
+13        android:debuggable="true"
+14        android:extractNativeLibs="false"
+15        android:label="Пыжпец Jump — Doodle Edition"
+15-->C:\Users\Maxim\Downloads\PyzhpetsJump_SkyboundEdition_06\app\src\main\AndroidManifest.xml:2:45-89
+16        android:testOnly="true"
+17        android:theme="@style/PyzhpetsTheme"
+17-->C:\Users\Maxim\Downloads\PyzhpetsJump_SkyboundEdition_06\app\src\main\AndroidManifest.xml:2:90-126
+18        android:usesCleartextTraffic="false" >
+18-->C:\Users\Maxim\Downloads\PyzhpetsJump_SkyboundEdition_06\app\src\main\AndroidManifest.xml:2:127-163
+19        <activity
+19-->C:\Users\Maxim\Downloads\PyzhpetsJump_SkyboundEdition_06\app\src\main\AndroidManifest.xml:3:9-5:20
+20            android:name="com.pyzhpets.jump.MainActivity"
+20-->C:\Users\Maxim\Downloads\PyzhpetsJump_SkyboundEdition_06\app\src\main\AndroidManifest.xml:3:19-47
+21            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+21-->C:\Users\Maxim\Downloads\PyzhpetsJump_SkyboundEdition_06\app\src\main\AndroidManifest.xml:3:109-179
+22            android:exported="true"
+22-->C:\Users\Maxim\Downloads\PyzhpetsJump_SkyboundEdition_06\app\src\main\AndroidManifest.xml:3:85-108
+23            android:screenOrientation="portrait" >
+23-->C:\Users\Maxim\Downloads\PyzhpetsJump_SkyboundEdition_06\app\src\main\AndroidManifest.xml:3:48-84
+24            <intent-filter>
+24-->C:\Users\Maxim\Downloads\PyzhpetsJump_SkyboundEdition_06\app\src\main\AndroidManifest.xml:4:13-154
+25                <action android:name="android.intent.action.MAIN" />
+25-->C:\Users\Maxim\Downloads\PyzhpetsJump_SkyboundEdition_06\app\src\main\AndroidManifest.xml:4:28-79
+25-->C:\Users\Maxim\Downloads\PyzhpetsJump_SkyboundEdition_06\app\src\main\AndroidManifest.xml:4:36-77
+26
+27                <category android:name="android.intent.category.LAUNCHER" />
+27-->C:\Users\Maxim\Downloads\PyzhpetsJump_SkyboundEdition_06\app\src\main\AndroidManifest.xml:4:79-138
+27-->C:\Users\Maxim\Downloads\PyzhpetsJump_SkyboundEdition_06\app\src\main\AndroidManifest.xml:4:89-136
+28            </intent-filter>
+29        </activity>
+30    </application>
+31
+32</manifest>

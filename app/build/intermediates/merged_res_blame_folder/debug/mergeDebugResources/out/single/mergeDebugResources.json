@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "com.pyzhpets.jump.app-debug-4:/drawable_launch_background.xml.flat",
+        "source": "com.pyzhpets.jump.app-main-6:/drawable/launch_background.xml"
+    },
+    {
+        "merged": "com.pyzhpets.jump.app-debug-4:/raw_menu_theme.wav.flat",
+        "source": "com.pyzhpets.jump.app-main-6:/raw/menu_theme.wav"
+    },
+    {
+        "merged": "com.pyzhpets.jump.app-debug-4:/raw_play_theme.wav.flat",
+        "source": "com.pyzhpets.jump.app-main-6:/raw/play_theme.wav"
+    },
+    {
+        "merged": "com.pyzhpets.jump.app-debug-4:/raw_powerup.wav.flat",
+        "source": "com.pyzhpets.jump.app-main-6:/raw/powerup.wav"
+    },
+    {
+        "merged": "com.pyzhpets.jump.app-debug-4:/raw_fail.wav.flat",
+        "source": "com.pyzhpets.jump.app-main-6:/raw/fail.wav"
+    },
+    {
+        "merged": "com.pyzhpets.jump.app-debug-4:/raw_tap.wav.flat",
+        "source": "com.pyzhpets.jump.app-main-6:/raw/tap.wav"
+    },
+    {
+        "merged": "com.pyzhpets.jump.app-debug-4:/raw_crack.wav.flat",
+        "source": "com.pyzhpets.jump.app-main-6:/raw/crack.wav"
+    },
+    {
+        "merged": "com.pyzhpets.jump.app-debug-4:/raw_bounce.wav.flat",
+        "source": "com.pyzhpets.jump.app-main-6:/raw/bounce.wav"
+    }
+]

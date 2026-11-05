@@ -1,0 +1,10 @@
+com.pyzhpets.jump.skybound05:raw/tap = 0x7f020006
+com.pyzhpets.jump.skybound05:raw/powerup = 0x7f020005
+com.pyzhpets.jump.skybound05:string/app_name = 0x7f030000
+com.pyzhpets.jump.skybound05:raw/play_theme = 0x7f020004
+com.pyzhpets.jump.skybound05:raw/fail = 0x7f020002
+com.pyzhpets.jump.skybound05:raw/crack = 0x7f020001
+com.pyzhpets.jump.skybound05:raw/menu_theme = 0x7f020003
+com.pyzhpets.jump.skybound05:raw/bounce = 0x7f020000
+com.pyzhpets.jump.skybound05:style/PyzhpetsTheme = 0x7f040000
+com.pyzhpets.jump.skybound05:drawable/launch_background = 0x7f010000

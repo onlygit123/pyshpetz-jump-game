@@ -1,0 +1,12 @@
+R_DEF: Internal format may change without notice
+local
+drawable launch_background
+raw bounce
+raw crack
+raw fail
+raw menu_theme
+raw play_theme
+raw powerup
+raw tap
+string app_name
+style PyzhpetsTheme
